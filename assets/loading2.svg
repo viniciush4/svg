@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="350"
+   height="250"
+   version="1.1"
+   id="svg14"
+   sodipodi:docname="loading.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs18" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="873"
+     inkscape:window-height="480"
+     id="namedview16"
+     showgrid="false"
+     inkscape:zoom="0.944"
+     inkscape:cx="175"
+     inkscape:cy="125"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg14" />
+
+        <circle
+            cx="60"
+            cy="50"
+            r="20"
+            fill="#6e40aa"
+            id="circle2">
+            <animate
+                attributeName="cy"
+                values="50; 150; 50"
+                calcMode="spline"
+                keyTimes="0; 0.5; 1"
+                keySplines="0.5 0 0.5 1; 0.5 0 0.5 1"
+                dur="1.25s"
+                begin="0s"
+                repeatCount="indefinite" />
+            <animate
+                attributeName="r"
+                values="20; 13; 20"
+                calcMode="spline"
+                keyTimes="0; 0.5; 1"
+                keySplines="0.5 0 0.5 1; 0.5 0 0.5 1"
+                dur="1.25s"
+                begin="0s"
+                repeatCount="indefinite" />
+            <animate
+                attributeName="fill"
+                values="#6e40aa; #1ddea3; #6e40aa"
+                dur="1.25s"
+                begin="0s"
+                repeatCount="indefinite" />
+        </circle>
+        <circle
+            cx="120"
+            cy="50"
+            r="20"
+            fill="#4c6edb"
+            id="circle2">
+            <animate
+                attributeName="cy"
+                values="50; 150; 50"
+                calcMode="spline"
+                keyTimes="0; 0.5; 1"
+                keySplines="0.5 0 0.5 1; 0.5 0 0.5 1"
+                dur="1.25s"
+                begin="100ms"
+                repeatCount="indefinite" />
+            <animate
+                attributeName="r"
+                values="20; 13; 20"
+                calcMode="spline"
+                keyTimes="0; 0.5; 1"
+                keySplines="0.5 0 0.5 1; 0.5 0 0.5 1"
+                dur="1.25s"
+                begin="100ms"
+                repeatCount="indefinite" />
+            <animate
+                attributeName="fill"
+                values="#6e40aa; #1ddea3; #6e40aa"
+                dur="1.25s"
+                begin="100ms"
+                repeatCount="indefinite" />
+        </circle>
+        <circle
+            cx="180"
+            cy="50"
+            r="20"
+            fill="#24aad8"
+            id="circle2">
+            <animate
+                attributeName="cy"
+                values="50; 150; 50"
+                calcMode="spline"
+                keyTimes="0; 0.5; 1"
+                keySplines="0.5 0 0.5 1; 0.5 0 0.5 1"
+                dur="1.25s"
+                begin="200ms"
+                repeatCount="indefinite" />
+            <animate
+                attributeName="r"
+                values="20; 13; 20"
+                calcMode="spline"
+                keyTimes="0; 0.5; 1"
+                keySplines="0.5 0 0.5 1; 0.5 0 0.5 1"
+                dur="1.25s"
+                begin="200ms"
+                repeatCount="indefinite" />
+            <animate
+                attributeName="fill"
+                values="#6e40aa; #1ddea3; #6e40aa"
+                dur="1.25s"
+                begin="200ms"
+                repeatCount="indefinite" />
+        </circle>
+        <circle
+            cx="240"
+            cy="50"
+            r="20"
+            fill="#1ac7c2"
+            id="circle2">
+            <animate
+                attributeName="cy"
+                values="50; 150; 50"
+                calcMode="spline"
+                keyTimes="0; 0.5; 1"
+                keySplines="0.5 0 0.5 1; 0.5 0 0.5 1"
+                dur="1.25s"
+                begin="300ms"
+                repeatCount="indefinite" />
+            <animate
+                attributeName="r"
+                values="20; 13; 20"
+                calcMode="spline"
+                keyTimes="0; 0.5; 1"
+                keySplines="0.5 0 0.5 1; 0.5 0 0.5 1"
+                dur="1.25s"
+                begin="300ms"
+                repeatCount="indefinite" />
+            <animate
+                attributeName="fill"
+                values="#6e40aa; #1ddea3; #6e40aa"
+                dur="1.25s"
+                begin="300ms"
+                repeatCount="indefinite" />
+        </circle>
+        <circle
+            cx="300"
+            cy="50"
+            r="20"
+            fill="#1ddea3"
+            id="circle2">
+            <animate
+                attributeName="cy"
+                values="50; 150; 50"
+                calcMode="spline"
+                keyTimes="0; 0.5; 1"
+                keySplines="0.5 0 0.5 1; 0.5 0 0.5 1"
+                dur="1.25s"
+                begin="400ms"
+                repeatCount="indefinite" />
+            <animate
+                attributeName="r"
+                values="20; 13; 20"
+                calcMode="spline"
+                keyTimes="0; 0.5; 1"
+                keySplines="0.5 0 0.5 1; 0.5 0 0.5 1"
+                dur="1.25s"
+                begin="400ms"
+                repeatCount="indefinite" />
+            <animate
+                attributeName="fill"
+                values="#6e40aa; #1ddea3; #6e40aa"
+                dur="1.25s"
+                begin="400ms"
+                repeatCount="indefinite" />
+        </circle>
+</svg>
